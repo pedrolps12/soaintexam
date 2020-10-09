@@ -1,0 +1,55 @@
+2020-10-08 19:51:44,763 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-1] checking authentication for user demo
+2020-10-08 19:51:44,828 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-1] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 19:52:36,794 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-3] checking authentication for user admin
+2020-10-08 19:52:36,800 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-3] Usuario: admin Mensaje: Logueo Exitoso
+2020-10-08 19:52:36,828 ERROR c.s.e.s.s.JwtUserDetailsServiceImpl [http-nio-8080-exec-3] El usuario: demo1 no existe en el sistema
+2020-10-08 19:52:56,075 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-4] checking authentication for user null
+2020-10-08 21:14:10,876 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-2] Revisando auttenticación para usuario demo
+2020-10-08 21:14:10,942 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-2] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:14:18,913 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-3] Revisando auttenticación para usuario demo
+2020-10-08 21:14:18,918 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-3] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:14:26,524 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-4] Revisando auttenticación para usuario demo
+2020-10-08 21:14:26,531 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-4] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:14:59,129 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-5] Revisando auttenticación para usuario demo
+2020-10-08 21:14:59,133 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-5] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:15:44,624 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-6] Revisando auttenticación para usuario demo
+2020-10-08 21:15:44,628 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-6] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:15:46,743 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-7] Revisando auttenticación para usuario demo
+2020-10-08 21:15:46,748 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-7] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:15:57,248 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-8] Revisando auttenticación para usuario demo
+2020-10-08 21:15:57,252 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-8] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:16:04,657 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-9] Revisando auttenticación para usuario demo
+2020-10-08 21:16:04,660 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-9] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:16:08,999 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-10] Revisando auttenticación para usuario demo
+2020-10-08 21:16:09,003 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-10] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:35:31,321 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-2] Revisando auttenticación para usuario demo
+2020-10-08 21:35:31,380 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-2] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:36:29,332 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-4] Revisando auttenticación para usuario demo
+2020-10-08 21:36:29,337 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-4] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:36:35,402 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-6] Revisando auttenticación para usuario demo
+2020-10-08 21:36:35,409 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-6] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:36:39,155 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-8] Revisando auttenticación para usuario demo
+2020-10-08 21:36:39,158 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-8] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:37:00,197 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-10] Revisando auttenticación para usuario demo
+2020-10-08 21:37:00,201 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-10] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:37:24,903 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-2] Revisando auttenticación para usuario demo
+2020-10-08 21:37:24,908 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-2] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:37:35,001 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-4] Revisando auttenticación para usuario demo
+2020-10-08 21:37:35,006 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-4] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:37:51,976 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-5] Revisando auttenticación para usuario demo
+2020-10-08 21:37:51,980 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-5] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:38:08,421 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-6] Revisando auttenticación para usuario demo
+2020-10-08 21:38:08,424 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-6] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:38:08,446 ERROR c.s.e.c.ProductRestController [http-nio-8080-exec-6] com.soaint.exam.model.ErrorObject@43674687
+2020-10-08 21:40:03,042 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-1] Revisando auttenticación para usuario demo
+2020-10-08 21:40:03,103 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-1] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:40:05,843 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-3] Revisando auttenticación para usuario demo
+2020-10-08 21:40:05,850 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-3] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:40:07,413 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-4] Revisando auttenticación para usuario demo
+2020-10-08 21:40:07,417 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-4] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:40:15,904 INFO c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-5] Revisando auttenticación para usuario demo
+2020-10-08 21:40:15,909 DEBUG c.s.e.s.JwtAuthenticationTokenFilter [http-nio-8080-exec-5] Usuario: demo Mensaje: Logueo Exitoso
+2020-10-08 21:40:15,938 ERROR c.s.e.c.ProductRestController [http-nio-8080-exec-5] ErrorObject(httpStatus=INTERNAL_SERVER_ERROR, message=Error al eliminar el producto, code=500, backendMessage=No class com.soaint.exam.entities.Product entity with id 3 exists!)
+2020-10-08 22:14:17,921 DEBUG c.s.e.c.SalesRestController [main] ErrorObject(httpStatus=NO_CONTENT, message=No se encontraron ventas, code=204, backendMessage=No se encontraron ventas en el sistema)
+2020-10-08 22:14:59,016 DEBUG c.s.e.c.SalesRestController [main] ErrorObject(httpStatus=NO_CONTENT, message=No se encontraron ventas, code=204, backendMessage=No se encontraron ventas en el sistema)
+2020-10-08 22:15:53,522 DEBUG c.s.e.c.ProductRestController [main] ErrorObject(httpStatus=NO_CONTENT, message=No se encontraron productos, code=204, backendMessage=No se encontraron productos en el sistema)

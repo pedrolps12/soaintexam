@@ -1,0 +1,33 @@
+# config context path to "/" by setting an empty string
+server:
+  contextPath:
+
+# JACKSON
+spring:
+  jackson:
+    serialization:
+      INDENT_OUTPUT: true
+  datasource:
+    url: jdbc:mysql://localhost:3306/soaintexam?useSSL=false
+    username: admin
+    password: Trabajo2018.
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+jwt:
+  header: Authorization
+  secret: tasksSecret
+  expiration: 604800
+  route:
+    authentication:
+      path: user
+      refresh: refresh
+      
+
+logging:
+  level:
+    org.springframework:
+      security: DEBUG
