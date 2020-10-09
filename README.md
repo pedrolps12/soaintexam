@@ -19,18 +19,6 @@ De acuerdo al IDE de preferencia instalar Lombok.
 
 De acuerdo al Ide ejecutar la clase ApplicationMain para levantar el proyecto.
 
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
 ### Ejemplos del examen ⌨️
 
 Archivo de logs (Línea 52 caso de error en el que se quiera eliminar un registro que no exista)
